@@ -38,3 +38,7 @@ From the Application directory
 ## Walk through the application
 
 Open application at http://localhost:3000
+
+##Attaching Snippet Of project
+![ToDoApp_Scrrenshot](https://user-images.githubusercontent.com/100672895/162112946-e487b892-ad04-4cb2-82c3-212c2c654c6f.png)
+
